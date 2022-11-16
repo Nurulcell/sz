@@ -1,0 +1,49 @@
+{
+    "License": "XxxxxxX",
+    "Account": {
+        "email": "revanibanez@gmail.com",
+        "password": "Evan123",
+        "Currency": "btt",
+        "DemoMode": "OFF"
+    },
+    "Target": {
+        "Target Profit": "0",
+        "Profit (%)": "0",
+        "Target Balance": "0",
+        "Target Lose": "0",
+        "Save Profit": "0",
+        "MaxLS": "0",
+        "Show Price": "ON",
+        "Game": "dice"
+    },
+    "Reset Seed": {
+        "Status": "OFF",
+        "Start Game": "False",
+        "After Bet": "1200",
+        "After Play (min)": "60"
+    },
+    "Betset": {
+        "Base Bet": "0.1",
+        "Bet": {
+            "Bet": "Hi",
+            "Hi / Low": {
+                "Toggle": "ON",
+                "If Lose": "1",
+                "If Win": "1"
+            }
+        },
+        "Marti": {
+            "Toggle": "ON",
+            "Chance": {
+                "Min": "44",
+                "Max": "47"
+            },
+            "If Win": "1.1",
+            "If Lose": "1.2",
+            "Reset if profit": "0.0000001",
+            "Reset if win": "0",
+            "Reset if lose": "0",
+            "Reset if maxbet": "0"
+        }
+    }
+}
